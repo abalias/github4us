@@ -1,0 +1,1 @@
+CREATE DATABASE `Database_lat1` /*!40100 COLLATE 'latin1_swedish_ci' */
